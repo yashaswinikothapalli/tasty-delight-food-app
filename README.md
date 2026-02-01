@@ -1,21 +1,11 @@
-# Tasty Delight - Food Ordering Application
 
-A full-stack food ordering application built using Python for backend and modern web technologies for frontend. Users can browse menus, place orders, and track order status in real-time.
+# Tasty Delight - Food Ordering Application (Front-End)
 
-## Features
-- Browse restaurant  food items
-- Add items to cart and place orders
-- Admin panel to manage menu and orders
-- Responsive web interface for desktop and mobile
+Developed the front-end of a food ordering application with a responsive and user-friendly interface. Implemented menu display, item selection, cart functionality, and interactive buttons using HTML, CSS, and JavaScript. Focused on UI/UX design and creating a smooth user experience for web applications.
 
 ## Tools & Technologies
-- Backend: Python (Flask/Django)
-- Frontend: HTML, CSS, JavaScript
-- Version Control: Git & GitHub
-
-## Skills Gained
-- Full-stack web development
-- Frontend-backend integration
-- Database handling
-- Basic UI/UX design
-- Deploying and testing applications
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+- UI/UX Principles
